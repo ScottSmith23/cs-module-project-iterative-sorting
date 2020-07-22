@@ -29,6 +29,4 @@ def binary_search(arr, target):
                 first = middle + 1
         
  
-
-
     return -1  # not found
